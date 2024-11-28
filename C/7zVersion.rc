@@ -3,7 +3,7 @@
 #define MY_VOS_CE_WINDOWS32  0x00050004L
 
 #define MY_VFT_APP  0x00000001L
-#define MY_VFT_DLL  0x00000002L
+#define MY_VFT_DLL  0x00000002
 
 // #include <WinVer.h>
 
